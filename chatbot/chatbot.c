@@ -1,3 +1,6 @@
+/*created by:ABZAL SHAIK
+date:4/4/2025
+project:Simple Chatbot*/
 #include <stdio.h>
 #include <string.h>
 
